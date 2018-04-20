@@ -1,0 +1,55 @@
+book_num,book_title,arjun_count,char_mention,char_type,char_count,sections_shared
+1,ADI PARVA,483,Krishna,god,25,11
+1,ADI PARVA,483,Bhima,pandava,17,12
+1,ADI PARVA,483,Vasudeva,other,14,10
+2,SABHA PARVA,126,Bhima,pandava,22,11
+2,SABHA PARVA,126,Krishna,god,10,4
+2,SABHA PARVA,126,Maya,god,3,3
+3,VANA PARVA,473,Bhima,pandava,23,15
+3,VANA PARVA,473,Chitrasena,god,8,6
+3,VANA PARVA,473,Krishna,god,7,6
+4,VIRATA PARVA,413,Uttara,pandava,7,5
+4,VIRATA PARVA,413,Virata,pandava_ally,5,4
+4,VIRATA PARVA,413,Vaisampayana,other,3,3
+5,UDYOGA PARVA,338,Bhima,pandava,20,17
+5,UDYOGA PARVA,338,Vasudeva,other,9,8
+5,UDYOGA PARVA,338,Krishna,god,8,6
+6,BHISHMA PARVA,639,Bhishma,kaurava_ally,18,14
+6,BHISHMA PARVA,639,Sikhandin,pandava_ally,8,7
+6,BHISHMA PARVA,639,Krishna,god,7,5
+7,DRONA PARVA,1511,Kesava,god,28,17
+7,DRONA PARVA,1511,Krishna,god,23,19
+7,DRONA PARVA,1511,Drona,kaurava_ally,19,13
+8,KARNA-PARVA,1006,Karna,kaurava,42,17
+8,KARNA-PARVA,1006,Keshava,god,20,15
+8,KARNA-PARVA,1006,Krishna,god,16,14
+9,SHALYA-PARVA,154,Bhimasena,pandava,6,6
+9,SHALYA-PARVA,154,Vasudeva,other,3,3
+9,SHALYA-PARVA,154,Sahadeva,pandava,2,2
+10,SAUPTIKA-PARVA,26,Yudhishthira,pandava,1,1
+10,SAUPTIKA-PARVA,26,Shikhandi,pandava_ally,1,1
+10,SAUPTIKA-PARVA,26,Pandu,pandava,1,1
+11,STRI-PARVA,22,Satyaki,pandava_ally,1,1
+11,STRI-PARVA,22,Sahadeva,pandava,1,1
+11,STRI-PARVA,22,Indras,god,1,1
+12,SANTI PARVA,112,Bhima,pandava,7,7
+12,SANTI PARVA,112,Yudhishthira,pandava,4,4
+12,SANTI PARVA,112,Karna,kaurava,3,2
+13,ANUSASANA PARVA,50,Nara,god,3,2
+13,ANUSASANA PARVA,50,Krishna,god,3,2
+13,ANUSASANA PARVA,50,Narayana,god,2,2
+14,ASWAMEDHA PARVA,263,Bhimasena,pandava,4,4
+14,ASWAMEDHA PARVA,263,Misra,other,4,1
+14,ASWAMEDHA PARVA,263,Krishna,god,3,3
+15,ASRAMAVASIKA PARVA,35,Bhima,pandava,6,5
+15,ASRAMAVASIKA PARVA,35,Bhimasena,pandava,3,3
+15,ASRAMAVASIKA PARVA,35,Nakula,pandava,2,2
+16,MAUSALA-PARVA,47,Vrishni,other,1,1
+16,MAUSALA-PARVA,47,Vaitarani,other,1,1
+16,MAUSALA-PARVA,47,Daruka,other,1,1
+17,MAHAPRASTHANIKA PARVA,14,Bhima,pandava,3,2
+17,MAHAPRASTHANIKA PARVA,14,Narayana,god,1,1
+17,MAHAPRASTHANIKA PARVA,14,Pandus,pandava,1,1
+18,SVARGAROHANIKA-PARVA,5,Bhima,pandava,3,2
+18,SVARGAROHANIKA-PARVA,5,Draupadi,pandava,1,1
+18,SVARGAROHANIKA-PARVA,5,Indra,god,1,1
