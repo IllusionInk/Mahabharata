@@ -63,7 +63,7 @@ Base plots rendered in processing
 
 #### Final Visualization (W.I.P.)
 ---
-- Layout of the final visualization [full size image]()
+- Layout of the final visualization [full size image](https://www.dropbox.com/s/9ni0vyyvc7aj3sc/Mahabharata_W.I.P..jpg?dl=0)
 ![final_viz](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Final%20Visualization.jpg)
 
 
@@ -88,6 +88,6 @@ Base plots rendered in processing
 
 ### References
 ---
-Source Material [The book - Mahabharata](http://www.sacred-texts.com/hin/maha/index.htm)
-Other Reference visualizations - [Gramener](https://gramener.com/mahabharatha/)
+- Source Material [The book - Mahabharata](http://www.sacred-texts.com/hin/maha/index.htm)
+ - Other Reference visualizations - [Gramener](https://gramener.com/mahabharatha/)
 
