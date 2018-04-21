@@ -52,7 +52,7 @@ Considering how Mahabharata has been a battle between the charachter’s fates. 
 - The soldiers in the background would depict the qualitative strength of these protagonists.
 
 ##### Concept Sketches
-![sketch](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Sketches/skecthes.jpg)
+![sketch](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Sketches/sketches.jpg)
 
 ##### Processing Renders
 Base plots rendered in processing
