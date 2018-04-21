@@ -58,6 +58,7 @@ Considering how Mahabharata has been a battle between the charachter’s fates. 
 Base plots rendered in processing
 - Chariots
 ![processing_plot](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Processing_renders/char_chariots-02.jpg)
+----
 - Horses
 ![processing_plot](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Processing_renders/maha_karna_horses-01.jpg)
 
