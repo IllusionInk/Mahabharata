@@ -62,7 +62,7 @@ Base plots rendered in processing
 - Horses
 ![processing_plot](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Processing_renders/maha_karna_horses-01.jpg)
 
-#### Final Visualization (W.I.P.)
+### Final Visualization (W.I.P.)
 ---
 - Layout of the final visualization [full size image](https://www.dropbox.com/s/9ni0vyyvc7aj3sc/Mahabharata_W.I.P..jpg?dl=0)
 ![final_viz](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Final%20Visualization.jpg)
