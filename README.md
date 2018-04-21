@@ -6,17 +6,17 @@
 
 ### Dataset 
 ---
-##### Source
+#### Source
 I decided to pick the English translation by KM Ganguly ([here](http://www.sacred-texts.com/hin/maha/index.html)), as it was the only one to cover the entire epic and is considered as its most reliable translation.
 
-##### Initial Explorations
+#### Initial Explorations
 In order to study the depiction of the characters, I framed certain intial questions :
 - How frequently are these charachters mentioned ?
 - Which charachters are frequently mentioend with Karna and Arjuna? 
 - How are Karna and Arjuna described qualitatively in the book?
 - What events brought them closer ?
 
-##### Text Analysis
+#### Text Analysis
 - The text analysis was carried out compeltely in Python, using libraries such as  pandas, numpy and spaCy.
 - Mahabharata is composed of 18 books and has multiple sections with each. (while some have 6 sections, other have 200)
 - In order to find out the distribution of characters and their associations across these books, I began with splitting the epic into various books and its sections.
@@ -26,14 +26,14 @@ In order to study the depiction of the characters, I framed certain intial quest
 - Once the dataset reached its most modular level. I could proceed with carrying out the actual analysis - figuring out the characters mentioned around Karna and Arjuna, figuring out the adjectives used around them (POS - Part of Speech tagging in spaCy).Also, how ahve their names changed in the text.
 - As the desired datasets were achieved, I exported them as CSVs to perform some further analysis in MS Excel.
 
-##### Dataset
+#### Dataset
 - Python Dataframes
 ![Data](https://github.com/IllusionInk/Mahabharata/blob/master/assets/Python_dataframe.jpg)
 
 - Final Shape
 ![Data](https://github.com/IllusionInk/Mahabharata/blob/master/assets/Final_Dataset.jpg)
 
-##### Final Datasets
+#### Final Datasets
 - Arjun_names: various names of Arjun
 - Karna_names: various names of Karna
 - Arjun_assoc: charachters closest to Arjuna
@@ -51,10 +51,10 @@ Considering how Mahabharata has been a battle between the charachter’s fates. 
 - The leash for the horse would determine the no. of chapters the charachter and protagonist appear together.
 - The soldiers in the background would depict the qualitative strength of these protagonists.
 
-##### Concept Sketches
+#### Concept Sketches
 ![sketch](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Sketches/sketches.jpg)
 
-##### Processing Renders
+#### Processing Renders
 Base plots rendered in processing
 - Chariots
 ![processing_plot](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Processing_renders/char_chariots-02.jpg)
