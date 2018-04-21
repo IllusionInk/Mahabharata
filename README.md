@@ -28,7 +28,7 @@ In order to study the depiction of the characters, I framed certain intial quest
 
 ##### Dataset
 - Python Dataframes
-![Data]()
+![Data](https://github.com/IllusionInk/Mahabharata/blob/master/assets/Python_dataframe.jpg)
 
 - Final Shape
 ![Data](https://github.com/IllusionInk/Mahabharata/blob/master/assets/Final_Dataset.jpg)
@@ -63,16 +63,16 @@ Base plots rendered in processing
 
 #### Final Visualization (W.I.P.)
 ---
-- Layout of the final visualization
+- Layout of the final visualization [full size image]()
 ![final_viz](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Final%20Visualization.jpg)
 
 
 ### Tasks to be done
 ---
-[ ] Adjective soldiers
-[ ] Leash for the horses
-[ ] Annotations
-[ ] Brief description
+- [ ] Adjective soldiers
+- [ ] Leash for the horses
+- [ ] Annotations
+- [ ] Brief description
 
 ### Tools 
 ---
