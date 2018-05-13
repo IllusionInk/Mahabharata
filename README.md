@@ -64,16 +64,16 @@ Base plots rendered in processing
 
 ### Final Visualization (W.I.P.)
 ---
-- The final visualization is an A1 sized print visualisation [full size image](https://www.dropbox.com/s/9ni0vyyvc7aj3sc/Mahabharata_W.I.P..jpg?dl=0)
+- The final visualization is an A1 sized print visualisation [full size image](https://www.dropbox.com/s/xyzqr7pjn77x3nd/Mahabharata_text-analysis.pdf?dl=0)
 ![final_viz](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Final%20Visualization.jpg)
 
 
 ### Tasks to be done
 ---
-- [ ] Adjective soldiers
-- [ ] Leash for the horses
-- [ ] Annotations
-- [ ] Brief description
+- [x] Adjective soldiers
+- [x] Leash for the horses
+- [x] Annotations
+- [x] Brief description
 
 ### Tools 
 ---
