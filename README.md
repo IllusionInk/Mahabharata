@@ -7,7 +7,11 @@
 ### Dataset 
 ---
 #### Source
-I decided to pick the English translation by KM Ganguly ([here](http://www.sacred-texts.com/hin/maha/index.htm)), as it was the only one to cover the entire epic and is considered as its most reliable translation.
+I decided to pick the English translation by KM Ganguly ([here](http://www.sacred-texts.com/hin/maha/index.htm)), as it was the only one to cover the entire epic and is considered as its most reliable translation. 
+The source material had to be edited to rectify for incorrect parva numbering and redundant text formatting. I have uploaded the final version of the text file in the data folder 
+- [x] 18 books combined
+- [x] 'Parva' numbering rectified
+- [x] Unwanted spacing corrected.
 
 #### Initial Explorations
 In order to study the depiction of the characters, I framed certain intial questions :
