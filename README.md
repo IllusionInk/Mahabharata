@@ -45,6 +45,13 @@ In order to study the depiction of the characters, I framed certain intial quest
 - Arjun_adj: adjectives used around Arjuna
 - Karna_adj: adjectives used around Karna
 
+#### Intiail Visualisation - Processing
+Before beginning the visualisation, it was essential to get an understanding of their occurence in the text, which books mentioned them more, what parts of the book; rather which events brought them closer.
+- A basic density plot in the books helped to view this.
+- Since the books are of unequal length, normalising the character appearances as per parts (10%, 20%, ....90%) helped to know when did the characters get mentioned more in the narrative arcs.
+
+![render1](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Processing_renders/mhb_chars.jpg)
+![render2](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Processing_renders/mhb_chars_norm.jpg)
 
 ### Visualization Concept - War formations.
 ---
@@ -58,7 +65,8 @@ Considering how Mahabharata has been a battle between the charachter’s fates. 
 #### Concept Sketches
 ![sketch](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Sketches/sketches.jpg)
 
-#### Processing Renders
+
+#### Final Processing Renders
 Base plots rendered in processing
 - Chariots
 ![processing_plot](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Processing_renders/char_chariots-02.jpg)
@@ -68,8 +76,8 @@ Base plots rendered in processing
 
 ### Final Visualization (W.I.P.)
 ---
-- The final visualization is an A1 sized print visualisation [full size image](https://www.dropbox.com/s/xyzqr7pjn77x3nd/Mahabharata_text-analysis.pdf?dl=0)
-![final_viz](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Final%20Visualization.jpg)
+- The final visualization is an A1 sized print visualisation [full size image](https://www.easyzoom.com/imageaccess/cb8e1fb906c0432c82e40b44e852e92a)
+![final_viz](https://github.com/IllusionInk/Mahabharata/blob/master/art_renders/Mahabharata_full.jpg)
 
 
 ### Tasks to be done
